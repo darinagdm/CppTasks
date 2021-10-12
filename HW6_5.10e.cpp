@@ -3,16 +3,13 @@
 
 using namespace std;
 
-int fact(int N){
-    if(N < 0){
-        return 0;
+int fact(int N)
+{
+    int F = 1; 
+    for(int i=1; i<=N; ++i){
+        F *= i; 
     }
-    if (N == 0){
-        return 1;
-    }
-    else{ 
-        return N * fact(N - 1);
-    }
+    return F;
 }
 
 float func_a(int n){
