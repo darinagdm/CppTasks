@@ -26,6 +26,7 @@ int main() {
     for (int i = 0; i < length; i++) {
       printf("%.2f ", abs(array[i] - float(arithmetic_mean)));
     }
+    free(array);
     cout << "Continue? (y/n) " << endl;
     cin >> response;
   }
