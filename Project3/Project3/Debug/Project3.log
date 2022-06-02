@@ -1,0 +1,15 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(513,5): warning MSB8028: промежуточный каталог (Debug\) содержит файлы, которые используются совместно с другим проектом (Project3.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Source.cpp
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(58,13): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(60,1): warning C4244: +=: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(252,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(257,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(262,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(270,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(280,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(290,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(465,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(466,36): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(467,35): warning C4244: аргумент: преобразование "double" в "int", возможна потеря данных
+C:\Users\dasha\Desktop\Нова папка (3)\Project3\Project3\Source.cpp(485,22): warning C4018: <: несоответствие типов со знаком и без знака
+  Project3.vcxproj -> C:\Users\dasha\Desktop\Нова папка (3)\Project3\Debug\ClassUniversity.exe
